@@ -33,16 +33,16 @@ public class CaixaTeste {
         /*   CaixaEletronico caixa = new CaixaEletronico();
         String msg = caixa.saque(minhaConta, saque);
         Assert.assertEquals("Saque efetuado com sucesso", msg);*/
- /* CaixaEletronico caixa = new CaixaEletronico();
+        /* CaixaEletronico caixa = new CaixaEletronico();
         String msg = caixa.saque(minhaConta, saque);
         Assert.assertEquals("Saldo insuficiente. Digite outro valor", msg);*/
- /*CaixaEletronico caixa = new CaixaEletronico();
+        /*CaixaEletronico caixa = new CaixaEletronico();
         String msg = caixa.saque(minhaConta, saque);
         Assert.assertEquals("Valor invalido! Digite outro valor!", msg);*/
- /*CaixaEletronico caixa = new CaixaEletronico();
+        /*CaixaEletronico caixa = new CaixaEletronico();
         String msg = caixa.saque(minhaConta, saque);
         Assert.assertEquals("O valor não pode ser pago. Digite outro valor!", msg);*/
- /*CaixaEletronico caixa = new CaixaEletronico();
+        /*CaixaEletronico caixa = new CaixaEletronico();
         minhaConta.setvSacado(5001f);
         String msg = caixa.saque(minhaConta, saque);
         Assert.assertEquals("A quantia solicitada esta fora do limite diario de saque!", msg);*/
